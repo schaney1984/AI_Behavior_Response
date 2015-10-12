@@ -1,5 +1,3 @@
-// adding changes to branch to see how branching works with github.
-
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
