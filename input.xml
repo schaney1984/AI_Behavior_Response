@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<root>
+    <behavior>Idle
+        <response>Use Computer</response>
+        <response>Patrol</response>
+    </behavior>
+    <behavior>Incoming Projectile
+        <response>Evade</response>
+    </behavior>
+    <behavior>Combat
+        <behavior>Melee
+            <response>Flee</response>
+            <response>Attack</response>
+        </behavior>
+        <behavior>Ranged
+            <response>Weapon 1</response>
+            <response>Weapon 2</response>
+            <response>Weapon 3</response>
+        </behavior>
+    </behavior>
+</root>
